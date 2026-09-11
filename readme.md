@@ -1,95 +1,58 @@
 <div align="center">
 
-# 👋 Hey, I'm Rupam Pal
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=220&section=header&text=Rupam%20Pal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20C%20Programmer%20%7C%20AI%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-### 🛡️ Cybersecurity Student • 💻 C Programmer • 🐧 Linux Learner • 🤖 AI Builder
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=B.Sc+Cybersecurity+Student;Learning+C+%26+Linux;Building+AI+Projects;Future+Cybersecurity+Professional" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=B.Sc+Cybersecurity+Student;Learning+C+%2B+Linux+the+Hard+Way;Building+an+AI+Companion+Named+Ahana;Future+Blue+Team+%E2%86%92+Red+Team+Operator" alt="Typing SVG"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=ItzRealRUPAM&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<a href="https://linkedin.com/in/rupam-pal-5b22b8411"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ItzRealRUPAM"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
----
+<br>
 
 ## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td width="55%">
-
-🎓 **B.Sc. Cybersecurity Student**
-
-💻 Currently strengthening my **C programming**
-
-🐧 Learning **Linux & terminal workflows**
-
-🛡️ Building my foundations in **Cybersecurity**
-
-🔵 Interested in **Blue Team / SOC / Security Analysis**
-
-🔴 Long-term goal: **Red Team / Offensive Security**
-
-🤖 Exploring **AI-powered personal projects**
-
-📚 Learning through **building, experimenting and solving problems**
-
-</td>
-
-<td width="45%">
-
-```text
-┌─────────────────────────┐
-│       MY APPROACH       │
-├─────────────────────────┤
-│                         │
-│   Learn                 │
-│     ↓                   │
-│   Build                 │
-│     ↓                   │
-│   Break                 │
-│     ↓                   │
-│   Understand            │
-│     ↓                   │
-│   Improve               │
-│     ↓                   │
-│   Repeat 🔁             │
-│                         │
-└─────────────────────────┘
+```yaml
+name: Rupam Pal
+role: B.Sc. Cybersecurity Student
+based_in: West Bengal, India
+languages_spoken: [Bengali, Hindi, English]
+currently_learning: [C Programming, Linux Internals, Cybersecurity Fundamentals]
+daily_driver_os: Omarchy Linux (Arch-based, Hyprland)
+also_uses: [Kali Linux, Ubuntu, ChromeOS Flex + Penguin (Debian terminal)]
+philosophy: "1% better every day — learn, build, break, fix, repeat"
+current_focus: Blue Team foundations → long-term goal Red Team / Offensive Security
 ```
 
-</td>
-</tr>
-</table>
+I'm not chasing overnight mastery — I'm stacking small, real wins every day. Every project below is something I've actually built and broken and fixed myself, not a tutorial I just watched.
 
 ---
 
-## ⚔️ My Cybersecurity Journey
+## ⚔️ The Path I'm Walking
 
 <div align="center">
 
-```text
-                    🛡️ CYBERSECURITY
-                           │
-             ┌─────────────┴─────────────┐
-             │                           │
-             ▼                           ▼
-       🔵 BLUE TEAM                🔴 RED TEAM
-             │                           │
-             ▼                           ▼
-       SOC / Analyst              Pentesting
-       Monitoring                 Security Testing
-       Detection                  Vulnerability Analysis
-             │                           │
-             └─────────────┬─────────────┘
-                           │
-                           ▼
-                  🧠 SECURITY EXPERT
-                           │
-                           ▼
-                         🏆 CISO
+```mermaid
+graph TD
+    A[🛡️ Cybersecurity Foundations] --> B{Choose a Path}
+    B -->|Defense| C[🔵 Blue Team / SOC]
+    B -->|Offense| D[🔴 Red Team / Pentest]
+    C --> E[Monitoring & Detection]
+    D --> F[Vulnerability Analysis]
+    E --> G[🧠 Security Specialist]
+    F --> G
+    G --> H[🏆 Security Professional]
+
+    style A fill:#0f172a,stroke:#38BDF8,color:#fff
+    style B fill:#1e3a8a,stroke:#38BDF8,color:#fff
+    style C fill:#155e75,stroke:#38BDF8,color:#fff
+    style D fill:#7f1d1d,stroke:#f87171,color:#fff
+    style G fill:#0f172a,stroke:#38BDF8,color:#fff
+    style H fill:#052e16,stroke:#4ade80,color:#fff
 ```
 
 </div>
@@ -98,75 +61,67 @@
 
 ## 🛠️ Tech Stack
 
-<h3>💻 Programming</h3>
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</p>
+**Programming & Scripting**
 
-<h3>🐧 Operating Systems & Tools</h3>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</p>
+**Systems & Tools**
 
-<h3>📊 Productivity</h3>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-<p>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white">
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white">
-</p>
+**Productivity**
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+
+</div>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Ahana — AI Companion
+### 🤖 Ahana — Personal AI Companion
 
-A personal AI companion project exploring a more natural way of interacting with an AI.
+A voice-first desktop AI companion built from scratch on my own Linux machine — not a wrapper around a chatbot, but a full system with memory, personality, and real computer access.
 
-<b>Exploring:</b>
+- 🎤 Voice input/output (Bengali TTS voice)
+- 🧠 Long-term SQLite memory with proactive fact-saving
+- 🗣️ Speaks Benglish, has a defined personality and boundaries
+- 💻 Cross-platform system control (Linux / WSL / Windows)
+- 🔌 Portable USB build that runs on any of the three
+- 😴 Wake-word behavior with idle/sleep detection
+- 🚧 In progress: keyword-based mid-speech interrupt system
 
-<ul>
-<li>🎤 Voice interaction</li>
-<li>👀 Webcam-based interaction</li>
-<li>🔊 Speech responses</li>
-<li>🧠 Context-aware conversations</li>
-<li>⚡ Fast responses</li>
-<li>😴 Inactivity / sleep behavior</li>
-<li>💻 Desktop interaction</li>
-</ul>
-
-<b>Status:</b> 🟡 Experimental
+**Status:** 🟡 Actively being built
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 💪 RPG Fitness Tracker
 
-### 💪 Fitness Tracker
+An offline, HTML-based fitness tracker that turns daily workouts into an RPG progression system.
 
-An offline HTML-based fitness tracker inspired by RPG progression systems.
+- ⚔️ Daily quests instead of plain to-do items
+- ⭐ XP + leveling system for consistency
+- 🏆 Unlockable badges
+- 📊 Visual progress tracking
+- 🌙 Automatic daily reset
+- 📱 Mobile-friendly layout
 
-<b>Features explored:</b>
-
-<ul>
-<li>⚔️ Daily quests</li>
-<li>⭐ XP system</li>
-<li>🏆 Badges</li>
-<li>📊 Progress tracking</li>
-<li>🌙 Daily reset</li>
-<li>📱 Mobile-friendly interface</li>
-</ul>
-
-<b>Status:</b> 🟡 Experimental
+**Status:** 🟡 Experimental
 
 </td>
 </tr>
@@ -174,64 +129,20 @@ An offline HTML-based fitness tracker inspired by RPG progression systems.
 
 ---
 
-## 🧠 What I'm Learning
+## 🧠 Current Learning Map
 
 <table align="center">
-<tr>
-<th>Area</th>
-<th>Status</th>
-</tr>
-
-<tr>
-<td>💻 C Programming</td>
-<td>🟡 Learning</td>
-</tr>
-
-<tr>
-<td>🧩 Problem Solving</td>
-<td>🟡 Learning</td>
-</tr>
-
-<tr>
-<td>🐧 Linux</td>
-<td>🟡 Learning</td>
-</tr>
-
-<tr>
-<td>🌐 Git & GitHub</td>
-<td>🟡 Learning</td>
-</tr>
-
-<tr>
-<td>🛡️ Cybersecurity Fundamentals</td>
-<td>🟡 Learning</td>
-</tr>
-
-<tr>
-<td>🌐 Networking</td>
-<td>🔴 Upcoming</td>
-</tr>
-
-<tr>
-<td>🗄️ SQL</td>
-<td>🔴 Upcoming</td>
-</tr>
-
-<tr>
-<td>🐍 Python</td>
-<td>🔴 Upcoming</td>
-</tr>
-
-<tr>
-<td>🔵 Blue Team / SOC</td>
-<td>🔴 Upcoming</td>
-</tr>
-
-<tr>
-<td>🔴 Red Team</td>
-<td>🔴 Future</td>
-</tr>
-
+<tr><th>Area</th><th>Status</th><th>Notes</th></tr>
+<tr><td>💻 C Programming</td><td>🟡 In Progress</td><td>Comfortable through switch-case, pushing further</td></tr>
+<tr><td>🐧 Linux</td><td>🟡 In Progress</td><td>Daily-driving Omarchy (Arch + Hyprland), also used Kali & Ubuntu</td></tr>
+<tr><td>🛡️ Cybersecurity Fundamentals</td><td>🟡 In Progress</td><td>Core B.Sc. coursework</td></tr>
+<tr><td>🌐 Git & GitHub</td><td>🟡 In Progress</td><td>Version control for all active projects</td></tr>
+<tr><td>🤖 AI/Applied AI</td><td>🟢 Foundations Done</td><td>Completed intro coursework, now building real projects</td></tr>
+<tr><td>🌐 Networking</td><td>🔴 Upcoming</td><td>Next on the roadmap</td></tr>
+<tr><td>🗄️ SQL</td><td>🔴 Upcoming</td><td>Planned</td></tr>
+<tr><td>🐍 Python</td><td>🔴 Upcoming</td><td>Planned depth beyond scripting basics</td></tr>
+<tr><td>🔵 Blue Team / SOC</td><td>🔴 Upcoming</td><td>First specialization target</td></tr>
+<tr><td>🔴 Red Team</td><td>⚪ Future Goal</td><td>Long-term direction</td></tr>
 </table>
 
 ---
@@ -240,153 +151,76 @@ An offline HTML-based fitness tracker inspired by RPG progression systems.
 
 <div align="center">
 
-<h3>🎯 1% Better Every Day</h3>
-
-</div>
-
-I don't want to learn everything overnight.
-
-I want to become **slightly better every day**.
-
-<div align="center">
-
-```text
-     📖 LEARN
-        ↓
-     ✍️ WRITE
-        ↓
-     💻 CODE
-        ↓
-     🧪 TEST
-        ↓
-     💥 BREAK
-        ↓
-     🔧 FIX
-        ↓
-     🚀 BUILD
-        ↓
-     🔁 REPEAT
-```
-
-</div>
-
-> **Watching a tutorial is not the finish line. Building something is.**
-
----
-
-## 🏆 Certifications & Learning
+### 🎯 1% Better Every Day
 
 <table>
 <tr>
-<td>🎓 Google AI Essentials</td>
-<td>Completed</td>
+<td align="center">📖<br><b>LEARN</b></td>
+<td>→</td>
+<td align="center">✍️<br><b>WRITE</b></td>
+<td>→</td>
+<td align="center">💻<br><b>CODE</b></td>
+<td>→</td>
+<td align="center">🧪<br><b>TEST</b></td>
 </tr>
-
 <tr>
-<td>🤖 PrepInsta AI Courses</td>
-<td>Completed</td>
+<td align="center">💥<br><b>BREAK</b></td>
+<td>→</td>
+<td align="center">🔧<br><b>FIX</b></td>
+<td>→</td>
+<td align="center">🚀<br><b>BUILD</b></td>
+<td>→</td>
+<td align="center">🔁<br><b>REPEAT</b></td>
 </tr>
-
-<tr>
-<td>🤖 Adda247 AI Course</td>
-<td>Completed</td>
-</tr>
-
-<tr>
-<td>💻 C Programming</td>
-<td>Currently Learning</td>
-</tr>
-
-<tr>
-<td>🛡️ Cybersecurity</td>
-<td>Currently Learning</td>
-</tr>
-
 </table>
 
----
-
-## 🎯 Current Mission
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════╗
-║              CURRENT MISSION             ║
-╠══════════════════════════════════════════╣
-║                                          ║
-║        MASTER C FUNDAMENTALS             ║
-║                   ↓                      ║
-║            BUILD PROJECTS                ║
-║                   ↓                      ║
-║          LEARN LINUX PROPERLY            ║
-║                   ↓                      ║
-║        BUILD CYBERSECURITY SKILLS        ║
-║                   ↓                      ║
-║           ENTER THE SECURITY             ║
-║                 WORLD                    ║
-║                                          ║
-╚══════════════════════════════════════════╝
-```
+> **Watching a tutorial is not the finish line. Building something — and breaking it — is.**
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 Completed Learning
+
+- 🎓 Google AI Essentials
+- 🤖 PrepInsta AI Course
+- 🤖 Adda247 AI Course
+
+**Currently learning:** C Programming • Linux • Cybersecurity Fundamentals
+
+---
+
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ItzRealRUPAM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzRealRUPAM&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzRealRUPAM&theme=tokyonight&hide_border=true" width="65%"/>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/rupam-pal-5b22b8411"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ItzRealRUPAM"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
+```bash
+$ whoami
+Rupam Pal — learning today so I'm dangerous (in a good way) tomorrow.
+```
 
 ### ⚡ Learn. Build. Break. Fix. Repeat.
 
-<br>
-
-```text
-$ sudo become_cybersecurity_professional
-```
-
-<br>
-
-### 🦊 Dattebayo!
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/>
